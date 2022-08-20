@@ -64,7 +64,7 @@
   },
   "homepage": "https://github.com/mblode/marx",
   "dependencies": {
-    "sanitize.css": "^11.0.1"
+    "sanitize.css": "^13.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.3",
